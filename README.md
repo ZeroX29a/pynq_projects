@@ -3,6 +3,6 @@ Personal derivative projects based on other brilliant projects [not a writeup] [
 New Projects releases on Fridays, Slightly different variations of the projects inbetween.
 Will include the Sources.
 
-1) [Simple Clock Divider](https://github.com/ZeroX29a/pynq_clock_Divider_with_sw)
+1 ) [Simple Clock Divider](https://github.com/ZeroX29a/pynq_clock_Divider_with_sw)
 
 1.1) [RGB Clock Divider](https://github.com/ZeroX29a/pynq_rgb_with_ClockDivider)
