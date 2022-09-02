@@ -1,5 +1,5 @@
 # pynq_projects for (PYNQ Z2)
-Personal derivative projects based on other brilliant projects [not a writeup] [weekly]
+Personal derivative projects [not a writeup] [weekly] based on other brilliant projects 
 New Projects releases on Fridays, Slightly different variations of the projects inbetween.
 Will include the Sources.
 
