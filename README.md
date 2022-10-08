@@ -8,3 +8,4 @@ Will include the Sources. The projects might have Critical Warnings and Negative
 1.1) [RGB Clock Divider](https://github.com/ZeroX29a/pynq_rgb_with_ClockDivider)
 
 2 ) [WS2812b Driver](https://github.com/ZeroX29a/pynq_ws2812b_anfry)
+[WILL UPDATE after some time :( ]
