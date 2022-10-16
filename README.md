@@ -9,4 +9,6 @@ Will include the Sources. The projects might have Critical Warnings and Negative
 
 2 ) [WS2812b Driver](https://github.com/ZeroX29a/pynq_ws2812b_anfry)
 
+3 ) [pynq_ws2812b_v1](https://github.com/ZeroX29a/pynq_ws2812b_v1)
+
 [WILL UPDATE after some time :( ]
