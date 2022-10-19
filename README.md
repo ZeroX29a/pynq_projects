@@ -11,6 +11,6 @@ Will include the Sources. The projects might have Critical Warnings and Negative
 
 3 ) [pynq_ws2812b_v1](https://github.com/ZeroX29a/pynq_ws2812b_v1)
 
-3 ) [pynq_ws2812b_v2](https://github.com/ZeroX29a/pynq_ws2812b_v2)
+4 ) [pynq_ws2812b_v2](https://github.com/ZeroX29a/pynq_ws2812b_v2)
 
 [WILL UPDATE after some time :( ]
