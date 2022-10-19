@@ -7,7 +7,7 @@ Will include the Sources. The projects might have Critical Warnings and Negative
 
 1.1) [RGB Clock Divider](https://github.com/ZeroX29a/pynq_rgb_with_ClockDivider)
 
-Issues Deteccted on 2,3,4 WS2812b Led drivers. The timing part have been derived from other devs project, while testing there seems to have some discrepancies with the lighting. They generally remain in the range of acceptable error, ie x value will only produce x color, the issue is in the brightness which seems to be messed up. These will be updated when i get back to it.
+Issues Deteccted on 2,3,4 WS2812b Led drivers. The timing part have been derived from other dev's project, on first hand it seems like timing issue, investigation underway, while testing there seems to have some discrepancies with the lighting. They generally remain in the range of acceptable error, ie x value will only produce x color, the issue is in the brightness which seems to be messed up. These will be updated when i get back to it.
 
 2 ) [WS2812b Driver](https://github.com/ZeroX29a/pynq_ws2812b_anfry)
 
