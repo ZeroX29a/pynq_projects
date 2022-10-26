@@ -9,6 +9,8 @@ Will include the Sources. The projects might have Critical Warnings and Negative
 
 Issues Deteccted on 2,3,4 WS2812b Led drivers. The timing part have been derived from other dev's project, on first hand it seems like timing issue, investigation underway, while testing there seems to have some discrepancies with the lighting. They generally remain in the range of acceptable error, ie x value will only produce x color, the issue is in the brightness which seems to be messed up. These will be updated when i get back to it.
 
+UPDATE 1 ) Issues could be because of 125Mhz main clock and the issues caused when dividing them to an int leaving out the decimal parts in the timing section of the module.
+
 2 ) [WS2812b Driver](https://github.com/ZeroX29a/pynq_ws2812b_anfry)
 
 3 ) [pynq_ws2812b_v1](https://github.com/ZeroX29a/pynq_ws2812b_v1)
